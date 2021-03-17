@@ -1,5 +1,5 @@
 # React - Custom hook practice
-It is a custom made hook that shows loading message and error message. It will load posts from jsonplaceholder. It uses styled-componets and axios.<br /><br /><br />
+It is a custom made hook that shows loading message and error message. It will load posts from jsonplaceholder. It uses styled-componets and axios. When you click a post it will shows the body of the content.<br /><br /><br />
 
 | Feature | Description |
 | -----: | :----------- |
